@@ -15,12 +15,12 @@
 ### [ShaleianIntroduction](https://github.com/Ziphil/ShaleianIntroduction)
 シャレイア語の入門書。
 文法事項を基礎から一通り解説してある、初学者向きの本。
-一部分は PDF として [ここ](http://ziphil.com/conlang/course/27.html) で見られる。
+一部分は PDF として[ここ](http://ziphil.com/conlang/course/27.html)で見られる。
 
 ### [ShaleianNonsentence](https://github.com/Ziphil/ShaleianNonsentence)
 シャレイア語の 2 冊目の語学書。
 文法的もしくは語法的に誤った文章とそれを正しく修正する方法をまとめた本。
-執筆中の PDF として [ここ](http://ziphil.com/conlang/course/28.html) で見られる。
+執筆中の PDF として[ここ](http://ziphil.com/conlang/course/28.html)で見られる。
 
 ### [FontGenerator](https://github.com/Ziphil/FontGenerator)
 シャレイア語のフォントを生成するスクリプト群。
