@@ -31,6 +31,7 @@
 ### [Dictionary](https://github.com/Ziphil/Dictionary-mirror)
 ZpDIC。
 人工言語制作に特化した、辞書の閲覧と編集ができるデスクトップアプリ。
+ダウンロードは[こちら](http://ziphil.com/application/download/2.html)から。
 
 ### [ZpdicOnlineNova](https://github.com/Ziphil/ZpdicOnlineNova)
 ZpDIC の Web アプリ版。
