@@ -22,6 +22,9 @@
 文法的もしくは語法的に誤った文章とそれを正しく修正する方法をまとめた本。
 執筆中の PDF として[ここ](http://ziphil.com/conlang/course/28.html)で見られる。
 
+### [ShaleianWordbook](https://github.com/Ziphil/ShaleianWordbook)
+シャレイア語の単語帳。
+
 ### [FontGenerator](https://github.com/Ziphil/FontGenerator)
 シャレイア語のフォントを生成するスクリプト群。
 完成品は[こちら](http://ziphil.com/conlang/database/7.html)。
