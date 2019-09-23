@@ -20,10 +20,11 @@
 ### [ShaleianNonsentence](https://github.com/Ziphil/ShaleianNonsentence)
 シャレイア語の 2 冊目の語学書。
 文法的もしくは語法的に誤った文章とそれを正しく修正する方法をまとめた本。
-執筆中の PDF として[ここ](http://ziphil.com/conlang/course/28.html)で見られる。
+執筆中の PDF は[ここ](http://ziphil.com/conlang/course/28.html)で見られる。
 
 ### [ShaleianWordbook](https://github.com/Ziphil/ShaleianWordbook)
-シャレイア語の単語帳。
+シャレイア語の基礎語を 600 語集めた初学者向きの単語帳。
+執筆中の PDF は[ここ](http://ziphil.com/conlang/course/29.html)で見られる。
 
 ### [FontGenerator](https://github.com/Ziphil/FontGenerator)
 シャレイア語のフォントを生成するスクリプト群。
