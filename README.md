@@ -45,9 +45,12 @@ ZpDIC の Web アプリ版。
 XML の代替構文である ZenML の変換スクリプト。
 シャレイア語のサイトとか本とかの原稿を書くのに実際使っている。
 
-### [ZenithalMath](https://github.com/Ziphil/ZenithalMath)
-MathML を簡潔に書ける代替構文である ZenMath の変換スクリプト。
+### [ZenithalMathWeb](https://github.com/Ziphil/ZenithalMathWeb)
+HTML 上に数式を表示するための CSS セットと、その HTML を簡潔に記述するための ZenMath の変換スクリプト。
 数式も ZenML で書きたい!
+
+### [ZenithalMathFormat](https://github.com/Ziphil/ZenithalMathFormat)
+MathML を簡潔に書ける代替構文である ZenMath の変換スクリプト。
 
 ### [Zatlin](https://github.com/Ziphil/Zatlin)
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
