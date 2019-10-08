@@ -5,65 +5,66 @@
 
 ## シャレイア語関連
 
-### [AvendiaNew](https://github.com/Ziphil/AvendiaNew)
+### [『Avendia』生成スクリプト](https://github.com/Ziphil/AvendiaNew)
 シャレイア語公式サイト『[Avendia](http://ziphil.com/)』を生成するためのスクリプトとその原稿ファイル。
 
-### [ShaleianDictionary](https://github.com/Ziphil/ShaleianDictionary)
+### [シャレイア語辞書データ](https://github.com/Ziphil/ShaleianDictionary)
 シャレイア語の辞書データ。
 最新のバージョンのデータの他、改定前の過去のデータもある。
 
-### [ShaleianIntroduction](https://github.com/Ziphil/ShaleianIntroduction)
+### [『入門 シャレイア語』](https://github.com/Ziphil/ShaleianIntroduction)
 シャレイア語の入門書。
 文法事項を基礎から一通り解説してある、初学者向きの本。
 一部分は PDF として[ここ](http://ziphil.com/conlang/course/27.html)で見られる。
 
-### [ShaleianNonsentence](https://github.com/Ziphil/ShaleianNonsentence)
+### [『破門 シャレイア語』](https://github.com/Ziphil/ShaleianNonsentence)
 シャレイア語の 2 冊目の語学書。
 文法的もしくは語法的に誤った文章とそれを正しく修正する方法をまとめた本。
 執筆中の PDF は[ここ](http://ziphil.com/conlang/course/28.html)で見られる。
 
-### [ShaleianWordbook](https://github.com/Ziphil/ShaleianWordbook)
+### [『シャレイア語 最重要 600 語』](https://github.com/Ziphil/ShaleianWordbook)
 シャレイア語の基礎語を 600 語集めた初学者向きの単語帳。
 執筆中の PDF は[ここ](http://ziphil.com/conlang/course/29.html)で見られる。
 
-### [FontGenerator](https://github.com/Ziphil/FontGenerator)
+### [シャレイア語フォント生成](https://github.com/Ziphil/FontGenerator)
 シャレイア語のフォントを生成するスクリプト群。
 完成品は[こちら](http://ziphil.com/conlang/database/7.html)。
 
 ## ソフトウェア
 
-### [Dictionary](https://github.com/Ziphil/Dictionary-mirror)
+### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
 ZpDIC。
 人工言語制作に特化した、辞書の閲覧と編集ができるデスクトップアプリ。
 ダウンロードは[こちら](http://ziphil.com/application/download/2.html)から。
 
-### [ZpdicOnlineNova](https://github.com/Ziphil/ZpdicOnlineNova)
+### [ZpDIC Online Nova](https://github.com/Ziphil/ZpdicOnlineNova)
 ZpDIC の Web アプリ版。
 完成するかどうかさえ怪しい。
 
-### [Zenithal](https://github.com/Ziphil/Zenithal)
+### [Zenithal Markup Language](https://github.com/Ziphil/Zenithal)
 XML の代替構文である ZenML の変換スクリプト。
 シャレイア語のサイトとか本とかの原稿を書くのに実際使っている。
 
-### [ZenithalMathWeb](https://github.com/Ziphil/ZenithalMathWeb)
-HTML 上に数式を表示するための CSS セットと、その HTML を簡潔に記述するための ZenMath の変換スクリプト。
+### [Zotica ＋ ZenMath](https://github.com/Ziphil/ZenithalMathWeb)
+HTML 上に数式を表示するための描画エンジン Zotica と、その HTML を簡潔に記述するための ZenMath の変換スクリプト。
 数式も ZenML で書きたい!
 
-### [ZenithalMathFormat](https://github.com/Ziphil/ZenithalMathFormat)
+### [Zenithal Math (for XSL-FO)](https://github.com/Ziphil/ZenithalMathFormat)
 MathML を簡潔に書ける代替構文である ZenMath の変換スクリプト。
 
 ### [Zatlin](https://github.com/Ziphil/Zatlin)
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
 ZpDIC にも実装されている。
 
-### [HaskellTsolitaire](https://github.com/Ziphil/HaskellTsolitaire)
+### [Zectare](https://github.com/Ziphil/ArticleGenerator)
+Zectare。
+定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
+
+### [Tsolitaire (Haskell)](https://github.com/Ziphil/HaskellTsolitaire)
 Haskell で実装した Tsolitaire の本体と最善手の探索アルゴリズム。
 
-### [Tsolitaire](https://github.com/Ziphil/Tsolitaire)
+### [Tsolitaire (Web)](https://github.com/Ziphil/Tsolitaire)
 Tsolitaire の Web アプリ版。
-
-### [ArticleGenerator](https://github.com/Ziphil/ArticleGenerator)
-定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
 ## その他
 
