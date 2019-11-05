@@ -45,9 +45,8 @@ ZpDIC の Web アプリ版。
 XML の代替構文である ZenML の変換スクリプト。
 シャレイア語のサイトとか本とかの原稿を書くのに実際使っている。
 
-### [Zotica ＋ ZenMath](https://github.com/Ziphil/ZenithalMathWeb)
-HTML 上に数式を表示するための描画エンジン Zotica と、その HTML を簡潔に記述するための ZenMath の変換スクリプト。
-数式も ZenML で書きたい!
+### [Zotica](https://github.com/Ziphil/ZenithalMathWeb)
+HTML 上に数式を表示するためのマークアップ言語とレンダリングエンジン。
 
 ### [Zenithal Math (for XSL-FO)](https://github.com/Ziphil/ZenithalMathFormat)
 MathML を簡潔に書ける代替構文である ZenMath の変換スクリプト。
@@ -57,7 +56,6 @@ MathML を簡潔に書ける代替構文である ZenMath の変換スクリプ�
 ZpDIC にも実装されている。
 
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
-Zectare。
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
 ### [Tsolitaire (Haskell)](https://github.com/Ziphil/HaskellTsolitaire)
