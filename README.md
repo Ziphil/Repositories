@@ -66,6 +66,10 @@ Tsolitaire の Web アプリ版。
 
 ## その他
 
+### [TaPL の Haskell 実装 (＋α)](https://github.com/Ziphil/Tapl)
+『Types and Programming Languages』に出てくる言語を Haskell で実装したもの。
+それ以外のプログラミング言語論関係の雑多な実装も含む。
+
 ### [Mofumofu](https://github.com/Ziphil/Mofumofu)
 もふもふ。
 
