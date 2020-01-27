@@ -70,6 +70,9 @@ Tsolitaire の Web アプリ版。
 『Types and Programming Languages』に出てくる言語を Haskell で実装したもの。
 それ以外のプログラミング言語論関係の雑多な実装も含む。
 
+### [LaTeX スタイルファイル](https://github.com/Ziphil/LatexStyleFile)
+個人用の LaTeX スタイルファイルです。
+
 ### [Mofumofu](https://github.com/Ziphil/Mofumofu)
 もふもふ。
 
