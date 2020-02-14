@@ -30,6 +30,9 @@
 シャレイア語のフォントを生成するスクリプト群。
 完成品は[こちら](http://ziphil.com/conlang/database/7.html)。
 
+### [シャレイア語文法解説スライド生成](https://github.com/Ziphil/ShaleianSlide)
+シャレイア語の文法解説動画で用いる画面の画像を生成するスクリプト群。
+
 ## ソフトウェア
 
 ### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
