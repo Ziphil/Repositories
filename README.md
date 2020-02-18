@@ -51,8 +51,8 @@ XML の代替構文である ZenML の変換スクリプト。
 ### [Zotica](https://github.com/Ziphil/ZenithalMathWeb)
 HTML 上に数式を表示するためのマークアップ言語とレンダリングエンジン。
 
-### [Zenithal Math (for XSL-FO)](https://github.com/Ziphil/ZenithalMathFormat)
-MathML を簡潔に書ける代替構文である ZenMath の変換スクリプト。
+### [ZenML Book](https://github.com/Ziphil/ZenithalBook)
+ZenML ドキュメントから PDF ファイルを自動生成するスクリプト。
 
 ### [Zatlin](https://github.com/Ziphil/Zatlin)
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
