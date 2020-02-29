@@ -40,8 +40,8 @@ ZpDIC。
 人工言語制作に特化した、辞書の閲覧と編集ができるデスクトップアプリ。
 ダウンロードは[こちら](http://ziphil.com/application/download/2.html)から。
 
-### [ZpDIC Online Nova](https://github.com/Ziphil/ZpdicOnlineNova)
-ZpDIC の Web アプリ版。
+### [ZpDIC Online (Version 2)](https://github.com/Ziphil/ZpdicOnlineNova)
+ZpDIC の新しい Web アプリ版。
 完成するかどうかさえ怪しい。
 
 ### [Zenithal Markup Language](https://github.com/Ziphil/Zenithal)
