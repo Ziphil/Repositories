@@ -58,6 +58,9 @@ ZenML ドキュメントから PDF ファイルを自動生成するスクリプ
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
 ZpDIC にも実装されている。
 
+### [Zajka](https://github.com/Ziphil/RabiManager)
+PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
+
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
