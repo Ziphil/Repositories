@@ -64,6 +64,9 @@ PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理する�
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
+### [TypeScript Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
+[Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript 実装。
+
 ### [Tsolitaire (Haskell)](https://github.com/Ziphil/HaskellTsolitaire)
 Haskell で実装した Tsolitaire の本体と最善手の探索アルゴリズム。
 
