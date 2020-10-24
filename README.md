@@ -54,9 +54,12 @@ HTML 上に数式を表示するためのマークアップ言語とレンダリ
 ### [ZenML Book](https://github.com/Ziphil/ZenithalBook)
 ZenML ドキュメントから PDF ファイルを自動生成するスクリプト。
 
-### [Zatlin](https://github.com/Ziphil/Zatlin)
+### [Zatlin (Java)](https://github.com/Ziphil/Zatlin)
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
 ZpDIC にも実装されている。
+
+### Zatlin (TypeScript)
+準備中。
 
 ### [Zajka](https://github.com/Ziphil/RabiManager)
 PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
@@ -64,7 +67,7 @@ PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理する�
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
-### [TypeScript Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
+### [Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
 [Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript 実装。
 
 ### [Tsolitaire (Haskell)](https://github.com/Ziphil/HaskellTsolitaire)
