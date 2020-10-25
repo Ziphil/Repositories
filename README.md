@@ -58,8 +58,8 @@ ZenML ドキュメントから PDF ファイルを自動生成するスクリプ
 人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
 ZpDIC にも実装されている。
 
-### Zatlin (TypeScript)
-準備中。
+### [Zatlin (TypeScript)](https://github.com/Ziphil/TypescriptZatlin)
+Zatlin の TypeScript 実装。
 
 ### [Zajka](https://github.com/Ziphil/RabiManager)
 PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
