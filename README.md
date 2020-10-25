@@ -54,12 +54,13 @@ HTML 上に数式を表示するためのマークアップ言語とレンダリ
 ### [ZenML Book](https://github.com/Ziphil/ZenithalBook)
 ZenML ドキュメントから PDF ファイルを自動生成するスクリプト。
 
-### [Zatlin (Java)](https://github.com/Ziphil/Zatlin)
-人工言語の発音記号を綴りから自動生成するための、発音規則を記述する簡易プログラミング言語。
-ZpDIC にも実装されている。
-
 ### [Zatlin (TypeScript)](https://github.com/Ziphil/TypescriptZatlin)
-Zatlin の TypeScript 実装。
+人工言語の単語の綴りを自動生成するための、綴りの生成規則を記述するドメイン特化言語。
+TypeScript による実装。
+
+### [Zatlin (Java)](https://github.com/Ziphil/Zatlin)
+Zatlin の古い Java 実装。
+デスクトップ版 ZpDIC に実装されているものと同様の動作をする。
 
 ### [Zajka](https://github.com/Ziphil/RabiManager)
 PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
@@ -83,7 +84,7 @@ Tsolitaire の Web アプリ版。
 それ以外のプログラミング言語論関係の雑多な実装も含む。
 
 ### [LaTeX スタイルファイル](https://github.com/Ziphil/LatexStyleFile)
-個人用の LaTeX スタイルファイルです。
+個人用の LaTeX スタイルファイル。
 
 ### [Mofumofu](https://github.com/Ziphil/Mofumofu)
 もふもふ。
