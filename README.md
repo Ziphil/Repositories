@@ -36,13 +36,11 @@
 ## ソフトウェア
 
 ### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
-ZpDIC。
 人工言語制作に特化した、辞書の閲覧と編集ができるデスクトップアプリ。
 ダウンロードは[こちら](http://ziphil.com/application/download/2.html)から。
 
 ### [ZpDIC Online (Version 2)](https://github.com/Ziphil/ZpdicOnlineNova)
 ZpDIC の新しい Web アプリ版。
-完成するかどうかさえ怪しい。
 
 ### [Zenithal Markup Language](https://github.com/Ziphil/Zenithal)
 XML の代替構文である ZenML の変換スクリプト。
@@ -67,6 +65,9 @@ PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理する�
 
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
+
+### [動画配信用ガジェット集](https://github.com/Ziphil/StreamingGadgets)
+HTML を用いて描画する、コメントビューアなどの動画配信用のガジェット集。
 
 ### [Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
 [Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript 実装。
