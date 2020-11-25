@@ -30,8 +30,11 @@
 シャレイア語のフォントを生成するスクリプト群。
 完成品は[こちら](http://ziphil.com/conlang/database/7.html)。
 
-### [シャレイア語文法解説スライド生成](https://github.com/Ziphil/ShaleianSlide)
-シャレイア語の文法解説動画で用いる画面の画像を生成するスクリプト群。
+### [シャレイア語文法解説スライド](https://github.com/Ziphil/ShaleianSlide)
+シャレイア語の文法解説動画で用いる画面の HTML と画像を生成するスクリプト群。
+
+### [シャレイア語版『不思議の国のアリス』スライド](https://github.com/Ziphil/ShaleianAlice)
+シャレイア語に翻訳された『不思議の国のアリス』を表示する画面の HTML と画像を生成するスクリプト群。
 
 ## ソフトウェア
 
@@ -51,6 +54,9 @@ HTML 上に数式を表示するためのマークアップ言語とレンダリ
 
 ### [ZenML Book](https://github.com/Ziphil/ZenithalBook)
 ZenML ドキュメントから PDF ファイルを自動生成するスクリプト。
+
+### [ZenML Slide](https://github.com/Ziphil/ZenithalSlide)
+ZenML ドキュメントからプレゼンテーション用の HTML と画像を自動生成するスクリプト。
 
 ### [Zatlin (TypeScript)](https://github.com/Ziphil/TypescriptZatlin)
 人工言語の単語の綴りを自動生成するための、綴りの生成規則を記述するドメイン特化言語。
