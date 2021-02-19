@@ -36,6 +36,9 @@
 ### [シャレイア語版『不思議の国のアリス』スライド](https://github.com/Ziphil/ShaleianAlice)
 シャレイア語に翻訳された『不思議の国のアリス』を表示する画面の HTML と画像を生成するスクリプト群。
 
+### [Xalzih](https://github.com/Ziphil/Xalzih)
+[シャレイア語 Discord サーバー](https://discord.gg/qdRyE2ZExf)で稼働している bot。
+
 ## ソフトウェア
 
 ### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
@@ -66,14 +69,17 @@ TypeScript による実装。
 Zatlin の古い Java 実装。
 デスクトップ版 ZpDIC に実装されているものと同様の動作をする。
 
-### [Zajka](https://github.com/Ziphil/RabiManager)
-PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
-
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
+### [Zajka](https://github.com/Ziphil/RabiManager)
+PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
+
 ### [動画配信用ガジェット集](https://github.com/Ziphil/StreamingGadgets)
 HTML を用いて描画する、コメントビューアなどの動画配信用のガジェット集。
+
+### [時計 (名称未設定)](https://github.com/Ziphil/RerefinedClock)
+時計ウィジェット。
 
 ### [Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
 [Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript 実装。
