@@ -48,6 +48,9 @@
 ### [ZpDIC Online (Version 2)](https://github.com/Ziphil/ZpdicOnlineNova)
 ZpDIC の新しい Web アプリ版。
 
+### [ZpDIC for Shaleian](https://github.com/Ziphil/ZpdicShaleian)
+新シャレイア語辞典形式の閲覧と編集ができるデスクトップアプリ。
+
 ### [Zenithal Markup Language](https://github.com/Ziphil/Zenithal)
 XML の代替構文である ZenML の変換スクリプト。
 シャレイア語のサイトとか本とかの原稿を書くのに実際使っている。
