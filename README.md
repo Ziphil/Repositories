@@ -72,6 +72,9 @@ TypeScript による実装。
 Zatlin の古い Java 実装。
 デスクトップ版 ZpDIC に実装されているものと同様の動作をする。
 
+### [Soxsot](https://github.com/Ziphil/Soxsot)
+新シャレイア語辞典形式を操作するための TypeScript ライブラリ。
+
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
 
