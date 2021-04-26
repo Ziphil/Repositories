@@ -39,6 +39,9 @@
 ### [Xalzih](https://github.com/Ziphil/Xalzih)
 [シャレイア語 Discord サーバー](https://discord.gg/qdRyE2ZExf)で稼働している bot。
 
+### [Soxsot](https://github.com/Ziphil/Soxsot)
+新シャレイア語辞典形式を操作するための TypeScript ライブラリ。
+
 ## ソフトウェア
 
 ### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
@@ -67,13 +70,11 @@ ZenML ドキュメントからプレゼンテーション用の HTML と画像�
 ### [Zatlin (TypeScript)](https://github.com/Ziphil/TypescriptZatlin)
 人工言語の単語の綴りを自動生成するための、綴りの生成規則を記述するドメイン特化言語。
 TypeScript による実装。
+ZpDIC Online に組み込まれている。
 
 ### [Zatlin (Java)](https://github.com/Ziphil/Zatlin)
-Zatlin の古い Java 実装。
+Zatlin の Java による古い実装。
 デスクトップ版 ZpDIC に実装されているものと同様の動作をする。
-
-### [Soxsot](https://github.com/Ziphil/Soxsot)
-新シャレイア語辞典形式を操作するための TypeScript ライブラリ。
 
 ### [Zectare](https://github.com/Ziphil/ArticleGenerator)
 定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
@@ -88,7 +89,8 @@ HTML を用いて描画する、コメントビューアなどの動画配信用
 時計ウィジェット。
 
 ### [Akrantiain](https://github.com/Ziphil/TypescriptAkrantiain)
-[Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript 実装。
+[Akrantiain](https://github.com/sozysozbot/akrantiain2) の TypeScript による実装。
+ZpDIC Online に組み込まれている。
 
 ### [Tsolitaire (Haskell)](https://github.com/Ziphil/HaskellTsolitaire)
 Haskell で実装した Tsolitaire の本体と最善手の探索アルゴリズム。
@@ -98,12 +100,10 @@ Tsolitaire の Web アプリ版。
 
 ## その他
 
+### [Zacalles 16px](https://github.com/Ziphil/ZacallesMinecraft)
+Minecraft 用のフォントリソースパック。
+Minecraft のテクスチャに合うようにビットマップフォントにしつつも、美しさや可読性にこだわったフォント。
+
 ### [TaPL の Haskell 実装 (＋α)](https://github.com/Ziphil/Tapl)
 『Types and Programming Languages』に出てくる言語を Haskell で実装したもの。
 それ以外のプログラミング言語論関係の雑多な実装も含む。
-
-### [Mofumofu](https://github.com/Ziphil/Mofumofu)
-もふもふ。
-
-### [Mofuball](https://github.com/Ziphil/Mofuball)
-もちもち。
