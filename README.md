@@ -8,7 +8,7 @@
 ### [『Avendia』生成スクリプト](https://github.com/Ziphil/AvendiaNew)
 シャレイア語公式サイト『[Avendia](http://ziphil.com/)』を生成するためのスクリプトとその原稿ファイル。
 
-### [シャレイア語辞書データ](https://github.com/Ziphil/ShaleianDictionary)
+### [シャレイア語辞書データ](https://github.com/Ziphil/ShaleianDictionaryNew)
 シャレイア語の辞書データ。
 最新のバージョンのデータの他、改定前の過去のデータもある。
 
@@ -36,8 +36,9 @@
 ### [シャレイア語版『不思議の国のアリス』スライド](https://github.com/Ziphil/ShaleianAlice)
 シャレイア語に翻訳された『不思議の国のアリス』を表示する画面の HTML と画像を生成するスクリプト群。
 
-### [Xalzih](https://github.com/Ziphil/Xalzih)
-[シャレイア語 Discord サーバー](https://discord.gg/qdRyE2ZExf)で稼働している bot。
+### [シャレイア語辞典 Web システム](https://github.com/Ziphil/ShaleianOnline)
+シャレイア語辞典に関するあらゆることを行う Web システム。
+[オンライン辞典アプリ](https://dic.ziphil.com), [Twitter 上の辞典 bot](https://twitter.com/shaleianbot), [シャレイア語 Discord サーバー](https://discord.gg/qdRyE2ZExf)上の bot などなど。
 
 ### [Soxsot](https://github.com/Ziphil/Soxsot)
 新シャレイア語辞典形式を操作するための TypeScript ライブラリ。
