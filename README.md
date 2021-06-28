@@ -43,6 +43,9 @@
 ### [Soxsot](https://github.com/Ziphil/Soxsot)
 新シャレイア語辞典形式を操作するための TypeScript ライブラリ。
 
+### [Talqis](https://github.com/Ziphil/Talqis)
+シャレイア語文化圏で用いられる独自の暦を扱う TypeScript ライブラリ。
+
 ## ソフトウェア
 
 ### [ZpDIC](https://github.com/Ziphil/Dictionary-mirror)
