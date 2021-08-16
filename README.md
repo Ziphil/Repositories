@@ -197,8 +197,8 @@
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/TypescriptZatlin">Zatlin</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/ZenithalSlide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalSlide" width="350" align="right">
+      <a href="https://github.com/Ziphil/TypescriptZatlin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptZatlin" width="350" align="right">
       </a>
       人工言語の単語の綴りを自動生成するための、綴りの生成規則を記述するドメイン特化言語。
       TypeScript による実装。
