@@ -125,7 +125,7 @@
   </tr>
 </table>
 
-## ソフトウェア
+## アプリケーション
 <table>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Dictionary">ZpDIC</a></b></td></tr>
   <tr>
@@ -155,6 +155,16 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZpdicShaleian" width="350" align="right">
       </a>
       新シャレイア語辞典形式の閲覧と編集ができるデスクトップアプリ。
+    </td>
+  </tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ConlangPortal">Conlang Portal (仮称)</a></b></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ziphil/ConlangPortal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ConlangPortal" width="350" align="right">
+      </a>
+      人工言語の情報を収集するポータルサイト。
+      「CLA コード」という人工言語を識別するための一意なコードを発行および管理する。
     </td>
   </tr>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Zenithal">Zenithal Markup Language</a></b></td></tr>
