@@ -5,11 +5,11 @@
 
 ## シャレイア語関連
 <table>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/AvendiaNew">『Avendia』生成スクリプト</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/AvendiaTertia">『Avendia』生成スクリプト (Version 3)</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/AvendiaNew">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=AvendiaNew" width="350" align="right">
+      <a href="https://github.com/Ziphil/AvendiaTertia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=AvendiaTertia" width="350" align="right">
       </a>
       シャレイア語公式サイト『<a href="http://ziphil.com/">Avendia</a>』を生成するためのスクリプトとその原稿ファイル。
     </td>
@@ -167,21 +167,21 @@
       「CLA コード」という人工言語を識別するための一意なコードを発行および管理する。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Zenithal">Zenithal Markup Language</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Zenml">Zenithal Markup Language</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/Zenithal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Zenithal" width="350" align="right">
+      <a href="https://github.com/Ziphil/Zenml">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Zenml" width="350" align="right">
       </a>
       XML の代替構文である ZenML の変換スクリプト。
       シャレイア語のサイトとか本とかの原稿を書くのに実際使っている。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZenithalMathWeb">Zotica</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZenmlZotica">Zotica</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/ZenithalMathWeb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalMathWeb" width="350" align="right">
+      <a href="https://github.com/Ziphil/ZenmlZotica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenmlZotica" width="350" align="right">
       </a>
       HTML 上に数式を表示するためのマークアップ言語とレンダリングエンジン。
     </td>
