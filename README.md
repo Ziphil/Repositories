@@ -195,11 +195,11 @@
       ZenML ドキュメントから PDF ファイルを自動生成するスクリプト。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZenithalSlide">ZenML Slide</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZenmlSlide">ZenML Slide</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/ZenithalSlide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenithalSlide" width="350" align="right">
+      <a href="https://github.com/Ziphil/ZenmlSlide">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZenmlSlide" width="350" align="right">
       </a>
       ZenML ドキュメントからプレゼンテーション用の HTML と画像を自動生成するスクリプト。
     </td>
@@ -235,13 +235,13 @@
       OBS Studio などの HTML 描画機能がある配信アプリで利用できる。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/RerefinedClock">時計 (名称未設定)</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Chronidion">Chronidion</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/RerefinedClock">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=RerefinedClock" width="350" align="right">
+      <a href="https://github.com/Ziphil/Chronidion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Chronidion" width="350" align="right">
       </a>
-      時計ウィジェット。
+      シンプルな時計ウィジェット。
     </td>
   </tr>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/RabiManager">Zajka</a></b></td></tr>
