@@ -56,34 +56,6 @@
       執筆中の PDF は<a href="http://ziphil.com/conlang/course/29.html">ここ</a>で見られる。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/TypescriptFontGenerator">シャレイア語フォント生成</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/TypescriptFontGenerator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptFontGenerator" width="350" align="right">
-      </a>
-      シャレイア語のフォントを生成するスクリプト群。
-      完成品は<a href="http://ziphil.com/conlang/database/7.html">こちら</a>。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ShaleianSlide">シャレイア語文法解説スライド</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/ShaleianSlide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ShaleianSlide" width="350" align="right">
-      </a>
-      シャレイア語の文法解説動画で用いる画面の HTML と画像を生成するスクリプト群。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ShaleianAlice">シャレイア語版『不思議の国のアリス』スライド</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/ShaleianAlice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ShaleianAlice" width="350" align="right">
-      </a>
-      シャレイア語に翻訳された『不思議の国のアリス』を表示する画面の HTML と画像を生成するスクリプト群。
-    </td>
-  </tr>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ShaleianOnline">シャレイア語辞典 Web システム</a></b></td></tr>
   <tr>
     <td>
@@ -92,6 +64,16 @@
       </a>
       シャレイア語辞典に関するあらゆることを行う Web システム。
       <a href="https://dic.ziphil.com">オンライン辞典アプリ</a>や<a href="https://discord.gg/qdRyE2ZExf">シャレイア語 Discord サーバー</a>上の bot など。
+    </td>
+  </tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/FontGeneratorTypescript">シャレイア語フォント生成</a></b></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ziphil/FontGeneratorTypescript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=FontGeneratorTypescript" width="350" align="right">
+      </a>
+      シャレイア語のフォントを生成するスクリプト群。
+      完成品は<a href="http://ziphil.com/conlang/database/7.html">こちら</a>。
     </td>
   </tr>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Soxsot">Soxsot</a></b></td></tr>
@@ -127,16 +109,6 @@
 
 ## アプリケーション
 <table>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Dictionary">ZpDIC</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/Dictionary">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Dictionary" width="350" align="right">
-      </a>
-      人工言語制作に特化した、辞書の閲覧と編集ができるデスクトップアプリ。
-      ダウンロードは<a href="http://ziphil.com/application/download/2.html">こちら</a>から。
-    </td>
-  </tr>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZpdicOnlineNova">ZpDIC Online (Version 2)</a></b></td></tr>
   <tr>
     <td>
@@ -167,6 +139,39 @@
       「CLA コード」という人工言語を識別するための一意なコードを発行および管理する。
     </td>
   </tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Aldiresh">Aldiresh</a></b></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ziphil/Aldiresh">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Aldiresh" width="350" align="right">
+      </a>
+      ブラウザ上で遊べるシンプルな全方向シューティングゲーム。
+      2011 年に Ruby で作ったゲームのリメイク。
+    </td>
+  </tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/StreamingGadgets">動画配信用ガジェット集</a></b></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ziphil/StreamingGadgets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=StreamingGadgets" width="350" align="right">
+      </a>
+      HTML を用いて描画する、コメントビューアなどの動画配信用のガジェット集。
+      OBS Studio などの HTML 描画機能がある配信アプリで利用できる。
+    </td>
+  </tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Chronidion">Chronidion</a></b></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ziphil/Chronidion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Chronidion" width="350" align="right">
+      </a>
+      シンプルな時計ウィジェット。
+    </td>
+  </tr>
+</table>
+
+## ライブラリ
+<table>
   <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Zenml">Zenithal Markup Language</a></b></td></tr>
   <tr>
     <td>
@@ -204,71 +209,25 @@
       ZenML ドキュメントからプレゼンテーション用の HTML と画像を自動生成するスクリプト。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/TypescriptZatlin">Zatlin</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ZatlinTypescript">Zatlin</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/TypescriptZatlin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptZatlin" width="350" align="right">
+      <a href="https://github.com/Ziphil/ZatlinTypescript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ZatlinTypescript" width="350" align="right">
       </a>
       人工言語の単語の綴りを自動生成するための、綴りの生成規則を記述するドメイン特化言語。
       TypeScript による実装。
       ZpDIC Online に組み込まれている。
     </td>
   </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/TypescriptAkrantiain">Akrantiain</a></b></td></tr>
+  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/AkrantiainTypescript">Akrantiain</a></b></td></tr>
   <tr>
     <td>
-      <a href="https://github.com/Ziphil/TypescriptAkrantiain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=TypescriptAkrantiain" width="350" align="right">
+      <a href="https://github.com/Ziphil/AkrantiainTypescript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=AkrantiainTypescript" width="350" align="right">
       </a>
       <a href="https://github.com/sozysozbot/akrantiain2">Akrantiain</a> の TypeScript による実装。
       ZpDIC Online に組み込まれている。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/StreamingGadgets">動画配信用ガジェット集</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/StreamingGadgets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=StreamingGadgets" width="350" align="right">
-      </a>
-      HTML を用いて描画する、コメントビューアなどの動画配信用のガジェット集。
-      OBS Studio などの HTML 描画機能がある配信アプリで利用できる。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/Chronidion">Chronidion</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/Chronidion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=Chronidion" width="350" align="right">
-      </a>
-      シンプルな時計ウィジェット。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/RabiManager">Zajka</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/RabiManager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=RabiManager" width="350" align="right">
-      </a>
-      PC 用ゲーム『Rabi-Ribi』のセーブデータを簡易的に管理するアプリケーション。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/ArticleGenerator">Zectare</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/ArticleGenerator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=ArticleGenerator" width="350" align="right">
-      </a>
-      定義や定理などを書いた断片的な原稿ファイルから 1 つのインタラクティブな数学書を生成するスクリプト。
-    </td>
-  </tr>
-  <tr><td colspan="2"><b><a href="https://github.com/Ziphil/HaskellTsolitaire">Tsolitaire</a></b></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ziphil/HaskellTsolitaire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ziphil&repo=HaskellTsolitaire" width="350" align="right">
-      </a>
-      Haskell で実装した Tsolitaire の本体と最善手の探索アルゴリズム。
     </td>
   </tr>
 </table>
